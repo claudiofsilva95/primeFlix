@@ -1,0 +1,14 @@
+.filme {
+    margin: 0 auto;
+    width: 500px;
+    align-items: center;
+}
+.filme h1 {
+    margin: 1em 0;
+}
+
+.filme img {
+    width: 100%;
+    border-radius: 1em;
+    margin-bottom: 1em;
+}
