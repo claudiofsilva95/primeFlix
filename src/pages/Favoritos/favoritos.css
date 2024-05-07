@@ -37,3 +37,15 @@
   color: #116feb;
   margin-right: 14px;
 }
+
+@media screen and (max-width: 700px) {
+  .meus-filmes ul {
+    display: flex;
+    flex-direction: column;
+    width: 90%
+  }
+
+  .meus-filmes ul li span {
+    margin: 0 1em;
+  }
+}
